@@ -1,0 +1,10 @@
+https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+EU regulations are binding (key point), and penalties incurred go up to 35 million euros or 7% of their global turnover.
+Enforces looking at the AI as a potential risk
+Data governance asks for bias-free (as possible) training, protection of PII and a documentation of data collection and pre-processing
+Technical documentation of the AI for regulators must be available and thoroughly documented (design, development and purpose of AI)
+There must be an auditable trail for the AI or market access will be blocked
+There must be logging for every event (inputs, decisions and performance; all as tamper free and retreivable as possible)
+Transparency in usage, capabilities/limitations, accuracy metrics, comprehensive outputs (no black box basically)
+Requires human overwatch as part of the AI use, with human override or intervention capabilities, provision of training and tools for oversight and these tasks must be accessible without heavy tech expertise.
+Systems must be accurate, resilient (to errors and attacks) and secure during the entire lifecycle of the solution. Must include failsafes, protection against adversarial ML attacks like poisoning, evasion and confidentiality attacks.
