@@ -1,0 +1,36 @@
+// Thank you, Puya, for the outline
+
+Input:
+AI policy documents, official frameworks (EU AI Act, NIST RMF), and any related datasets from Kaggle.
+
+Step 1 – Data Gathering
+  Collect datasets and policy documents from official sources. (my dataset's suggestion: link)
+  Clean and preprocess data (remove unnecessary columns).
+  Select at least three key entities for comparison, such as:  
+    🇪🇺 European Union – EU AI Act
+    🇺🇸 United States – NIST AI Risk Management Framework
+    Corporate – OpenAI or Google AI Governance Principles
+
+Step 2 – Policy Analysis Module (Python + Google Colab)
+  Write a simple Python module to analyze datasets and generate statistical comparisons.
+  Visualize findings using diagrams and charts (e.g., bar graphs showing regulatory strictness, coverage of ethical vs. security principles).
+  Design a comparative table with columns such as:
+    Policy Name / Entity
+    Focus Area (Ethical / Security / Governance)
+    Risk Rating or Regulation Level
+    Mechanisms for Enforcement
+    Relevance to Cybersecurity
+
+Step 3 – Comparative Analysis
+  Analyze similarities and differences between the selected policies.
+    Example: The EU AI Act emphasizes strict legal enforcement, while the NIST RMF focuses on voluntary guidelines.
+  Evaluate which policy dimensions contribute most to cybersecurity and risk mitigation for AGI or LLM-based systems.
+
+Step 4 – Results and Recommendations
+  Present diagrams, tables, and key comparison results.
+  Conclude the best combination of policies for responsible AI adoption.
+  Propose a simple mini-framework called Cybersecurity-Aware Responsible AI Adoption Framework (CARA-AI), highlighting the recommended balance between innovation and regulation.
+
+Final Project Output (Paper)
+  A comparative table summarizing findings.
+  A short analytical report (4–6 pages) including diagrams, discussion, and policy recommendations.
