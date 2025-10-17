@@ -2,6 +2,10 @@ EU Regulation
 Applicable to all EU member states, specifically to banks, insurers, investment firms, payment institutions, crypto-asset service providers and Information and Communication Technology (ICT) 3rd party providers.
 The national competent authorities, or NCA, and European Supervisory Authorities (ESA) oversee the compliance.
 
+Applies to AI: AI systems part of the ICT infrastructure must be covered by risk management, testing, and incident reporting.
+- AI seervice providers can be considered critical 3rd party providers, which brings them to EU oversight.
+- As a concept, if AI is part of the ICT infrastructure, it needs to hold the same resilience requirements.
+
 ICT Risk Management (Articles 5-15)
 - Entities must establish and maintain an ICT RMF
 - Requires governance, protection, detection, response, recovery and learning in said plan
