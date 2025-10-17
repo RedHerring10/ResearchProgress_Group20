@@ -1,0 +1,41 @@
+EU Regulation
+Applicable to all EU member states, specifically to banks, insurers, investment firms, payment institutions, crypto-asset service providers and Information and Communication Technology (ICT) 3rd party providers.
+The national competent authorities, or NCA, and European Supervisory Authorities (ESA) oversee the compliance.
+
+ICT Risk Management (Articles 5-15)
+- Entities must establish and maintain an ICT RMF
+- Requires governance, protection, detection, response, recovery and learning in said plan
+- Boards of directors are accountable for ICT risk oversight (important)
+
+ICT Incident Reporting (16-23)
+- Entities must classify incidents related to ICT and be able to report major incidents to regulators
+- Must have standardized templates and timelines for initial, intermediate and final reports
+- Main concept is that they must improve supervisory awareness and resilience on the sector
+
+Digital Operational Resilience Testing (24-27)
+- Required to conduct regular testing of their ICT systems
+- Larger, critical institutions must perform threat-led pentesting (TLPT) every 3 years
+- Tests need to cover critical functions and any 3rd party dependencies
+
+ICT 3rd party Risk (28-44)
+- Required to manage risks from ICT service providers like cloud or AI services
+- Critical ICT providers are subjected to direct EU oversight by the ESAs
+- Contracts must reflect requirements and contain clauses on security, access, audit and termination
+
+Information Sharing (45-47)
+- Entities may exchange cyber threat intelligence and information
+- Sharing must respect confidentiality and competition laws
+- Main concept is to build a collective defense against cyber threats
+
+Penalties
+- No fixed fines like EU AI Act or GDPR
+- Member States set penalties under their national law
+- Penalties are calculated to be effective, proportionate and dissuasive
+- Can include remedial measures, fines and restrictions
+
+Concepts:
+Risk management: Documented frameworks, board accountability, lifecycle security.
+Incident reporting: Classification, standardized reporting, regulator notification.
+Testing: Regular resilience testing, TLPT for critical entities.
+Third‑party risk: Contractual clauses, oversight of critical ICT providers, exit strategies.
+Information sharing: Voluntary but encouraged; structured exchange of threat intelligence.
