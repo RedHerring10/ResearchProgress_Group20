@@ -1,0 +1,37 @@
+A Directive (must be incorporated into Member States' national laws)
+Applies to EU Member States, specifically in sectors like banking, energy, transport, financial, health, ICT service management, public administration, etc.
+Is divided into "essential entities" (banking, healthcare, energy) and "important entities" (postal services, waste management, food production, digital providers)
+
+Applies to AI: AI systems used in critical sectors specified are required to be in the scope of the directive.
+- Explains how to secure AI systems within infrastructure through risk management, incident reporting, and governance
+- Not optional, directives are mandatory
+
+Risk Management
+- AI used in decision-making, monitoring, or automation must have its vulnerabilities addressed as part of the cybersecurity risk management plan
+- Incident handling (prevention, detection and response)
+- Business continuity and crisis management
+- Supply chain security for ICT and AI vendors
+- Security-first priorities for acquisition, development and maintenance of network and information systems
+- Vulnerability handling and disclosure policies
+- Criptography and encryption use
+- Personnel security, access control, asset management
+- Security in communications and systems
+
+Incident Reporting
+- Security incidents that involve AI systems (model compromise, data leaks, adversarial exploitation) must be reported under specified timelines (24h early warning, 72h notification, final report in 1 month)
+- Reports must go to the national CSIRT or competent authority
+
+Supervision and Enforcement
+- Essential entities must have proactive supervision (audits, inspections, on-site checks)
+- Important entities can have reactive supervisions (after there's evidence of non-compliance)
+- NCAs can issue binding instructions, order remedies and impose penalties
+
+Information Sharing and Cooperation
+- Encouragement of voluntary information sharing on cyber threats and vulnerabilities
+- Crisis coordination
+- Vulnerability disclosure
+
+Penalties
+- Up to 10 million euros or 2% of global turnover for essential entities
+- Up to 7 million euros or 1.4% of global turnover for important entities
+- Penalties must be effective, proportionate and dissuasive
