@@ -1,0 +1,41 @@
+Cyber Resilience Act
+Regulation, binding for EU Member States
+Applies to: Manufacturers, importers, distributors of products with digital elements like software, connected devices and AI-enabled products
+Supervised by the National market surveillance authorities in the EU
+
+AI Application: Consider AI as a product on the requirements
+
+Obligations of Manufacturers
+- Ensure cybersecurity by design and by default
+- Risk assessments
+- Provide security updates and vulnerability handling throughout lifecycle
+
+Obligations of Importers/Distributors
+- Must verify compliance before placing products on the EU market
+
+Open-Source Software Conditions
+- If OSS is commercialized, the entity placing it on the market becomes responsible for compliance
+- Security updates, vulnerability handling, confority assessments
+- Non-commercialized OSS is not part of the scope for CRA
+
+Products
+- Must meet essential cybersecurity requirements
+- Conformity via self-assessment or 3rd party certification depending on risk class
+- Rules for entities authorized to certify high-risk products
+
+Market Surveillance
+- National authorities can investigate, withdraw, or recall non-compliant products
+- EU wide coordination for risks
+- Comission can update technical requirements
+
+Confidentiality and Penalties
+- Member States of the EU must set penalties that are effective, proportionate and dissuasive
+- Non-compliance can lead to fines, product withdrawal, or recall
+- No specific EU-wide fine levels
+
+Simple summary of categories
+Design & development: Security‑by‑design, secure coding, vulnerability management.
+Lifecycle: Continuous patching, monitoring, and disclosure of vulnerabilities.
+Conformity: CE marking, technical documentation, compliance with Annex I requirements.
+Market surveillance: Cooperation with authorities, incident reporting.
+Transparency: Clear instructions for users on security updates and configurations.
