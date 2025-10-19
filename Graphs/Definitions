@@ -1,0 +1,112 @@
+Loose Regulations - An AI policy that guides but does not substantially inhibit the advancement or adoption of AI in any form. Common Signs include:
+Not prioritizing human safety and sovereignty over other motives/incentives
+No deterrents for misuse of AI systems
+Supports AI development for the sake of AI development
+Vauge
+Voluntary 
+Narrow Scope
+
+Moderate Regulations - An AI policy that restricts the advancement or adoption of AI. Common Factors Signs include:
+Holding human safety and sovereignty in equal regard to other motives/incentives
+Advocates for self-regulation on the use of AI systems
+Develops AI with a purpose in mind
+Does not fit cleanly into either loose or strict categories
+
+
+Strict Regulations - An AI policy that dictates/governs how AI is supposed to be developed and implemented. Common Signs include:
+Prioritizing human safety and sovereignty over other motives/incentives
+Deterrents for the misuse of AI systems
+Develops AI with a specific purpose in mind. This purpose is reflected throughout the AI life cycle
+Specific
+Binding
+Wide Scope
+
+
+
+
+Strict Frameworks:
+
+EU AI Act     [EU]
+DORA          [EU]
+NIS2             [EU]
+Cyber Resilience Act(CRA)  [EU]
+ISO/IEC 42001 (AIMS)   [International]
+ISO/IEC 27001 (ISMS)   [International]
+Cyber Supply Chain Risk Management (Australian Signals Directorate) [AU]
+
+
+Moderate Frameworks:
+
+Singapore AI Verify    [Singapore]
+ASD Cyber supply chain risk management [AU] 
+ASD Essential Eight                                      [AU]
+ASD Information Security Manual (ISM)      [AU]
+BSI AIC4 (AI Cloud Compliance Criteria)    [German]     
+CCS Principles for trustworthy generative AI*  [CA]
+NCSC NZ Cyber Security Framework            [NZ]
+NCSC UK 10 Steps to Cyber Security            [UK]
+NCSC UK Principles for the security of machine learning   [UK]
+Hiroshima AI Process Comprehensive Policy Framework(G7)  [JA]
+Engaging with Artificial Intelligence (Australian Signals Directorate) [AU]
+NIST AI Risk Management Framework                         [US]
+
+
+
+Loose Frameworks:
+
+U.S. DoD 2023 Data Analytics and AI Adoption Strategy  [US]
+Google Secure AI Framework (SAIF)          [US]
+Google AI Principles                                     [US]
+Microsoft Security for AI                              [US]
+NIST AI RMF 1.0		[US]
+NIST Generative AI Profile    [US]
+NIST Cybersecurity Framework 2.0	[US]
+NIST Adversarial Machine Learning: Taxonomy and Terminology [US]
+Google SAIF                        [US]
+Microsoft Security for AI      [US]
+ISO/IEC 23894 (AI risk guidance)  [International]
+OECD AI Principles   [International]
+Cloud Security Alliance AI Safety Initiative   [International]
+IBM AI Governance                                    [International]
+CSA AI Safety & Security    [International]
+ENISA AI cybersecurity/threat landscape  [EU]
+OWASP Machine Learning Security Top 10 [Open Source]
+ASD Ethical AI Framework                       [Australia]
+BSI LLMs: Opportunities and Risks          [German]
+CERT NZ Top online security tips for your business   [NZ]
+NCSC NZ Interim GenAI guidance for the public service  [NZ]
+
+      
+
+Based on our definitions, out of 41 frameworks we’ve looked at:
+21 Loose frameworks
+13 Moderate Frameworks
+7 Strict Frameworks
+
+
+Out of the 7 strict Frameworks:
+	4 are from the EU
+	2 are international standards
+	1 is Australian 
+
+
+Out of the 12 moderate Frameworks:
+	4 are Australian
+	1 from Singapore
+	1 from Germany
+	1 from Canada
+	1 from New Zealand
+	1 from Japan
+	2 are from the UK
+	1 from the U.S
+
+
+Out of the 21 loose Frameworks:
+	10 are from the U.S
+	5 are International 
+	1 from the EU
+	1 is Open Source 
+	1 is Australian	
+	1 from Germany 
+	2 from New Zealand 
+	
