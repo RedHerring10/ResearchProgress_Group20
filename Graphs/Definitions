@@ -40,41 +40,41 @@ Moderate Frameworks:
 [29] Singapore AI Verify    [Singapore]
 * Australian Framework for Generative Artificial Intelligence (AI) in Schools [AU] https://www.education.gov.au/schooling/resources/australian-framework-generative-artificial-intelligence-ai-schools
 * Critical Technology Supply Chain Principles [AU]  https://www.homeaffairs.gov.au/cyber-security-subsite/files/critical-technology-supply-chain-principles.pdf
-* ASD Essential Eight                    [AU]  https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight
+* Essential Eight            [AU]  https://www.cyber.gov.au/business-government/asds-cyber-security-frameworks/essential-eight
 [14] BSI AIC4 (AI Cloud Compliance Criteria)    [German]     
 [33] CCCS Principles for trustworthy generative AI*  [CA]
-* NCSC NZ Cyber Security Framework            [NZ]          https://www.ncsc.govt.nz/protect-your-organisation/ncsc-cyber-security-framework/
+* NCSC Cyber Security Framework            [NZ]          https://www.ncsc.govt.nz/protect-your-organisation/ncsc-cyber-security-framework/
 [25] NCSC UK 10 Steps to Cyber Security            [UK]
 [26] NCSC UK Principles for the security of machine learning   [UK]
 * Hiroshima Process International Code of Conduct for Organizations Developing Advanced AI Systems  [JA]  https://www.soumu.go.jp/hiroshimaaiprocess/pdf/document05_en.pdf
 [21] Engaging with Artificial Intelligence (Australian Signals Directorate) [AU]
-* NIST AI Risk Management Framework                         [US]    https://www.nist.gov/itl/ai-risk-management-framework
+* AI Risk Management Framework (NIST)                        [US]    https://www.nist.gov/itl/ai-risk-management-framework
 
 
 
 Loose Frameworks:
 
 [12] U.S. DoD 2023 Data Analytics and AI Adoption Strategy  [US]
-* Google Secure AI Framework (SAIF)          [US]                 https://safety.google/intl/en_in/safety/saif/
-* Google AI Principles                                     [US]   https://ai.google/principles/
+* Google's Secure AI Framework (SAIF)          [US]                 https://safety.google/intl/en_in/safety/saif/
+* Our AI Principles      (Google)                               [US]   https://ai.google/principles/
 * Microsoft guide for securing the AI-powered enterprise                              [US] https://www.microsoft.com/en-us/security/security-insider/emerging-trends/ai-security-guide
-* NIST Artificial Intelligence Risk Management Framework (AI RMF 1.0)		[US]  https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf
-* NIST Artificial Intelligence Risk Management Framework: Generative AI Profile    [US]     https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
-* NIST Cybersecurity Framework (CSF) 2.0	[US]  https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
-* NIST Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations [US]  https://csrc.nist.gov/pubs/ai/100/2/e2025/final
-* AI at Google                        [US]  https://blog.google/technology/ai/ai-principles/
-* Microsoft Responsible AI: Principles & Approach    [US] https://www.microsoft.com/en-us/ai/principles-and-approach
+* (NIST) Artificial Intelligence Risk Management Framework (AI RMF 1.0)		[US]  https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf
+* (NIST) Artificial Intelligence Risk Management Framework: Generative AI Profile    [US]     https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
+* The NIST Cybersecurity Framework (CSF) 2.0	[US]  https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+* (NIST AI 100-2 E2025) Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations [US]  https://csrc.nist.gov/pubs/ai/100/2/e2025/final
+* AI at Google: our principles                        [US]  https://blog.google/technology/ai/ai-principles/
+* The Microsoft Responsible AI Standard    [US] https://www.microsoft.com/en-us/ai/principles-and-approach
 [17] ISO/IEC 23894 (AI risk guidance)  [International]
-* OECD AI Principles   [International] 					https://www.oecd.org/en/topics/sub-issues/ai-principles.html
-* Cloud Security Alliance(CSA) AI Safety Initiative Overview   [International] https://cloudsecurityalliance.org/artifacts/ai-safety-initiative-overview
-* IBM AI Governance                                    [International] https://www.ibm.com/think/insights/a-look-into-ibms-ai-ethics-governance-framework
+* (OECD) AI Principles   [International] 					https://www.oecd.org/en/topics/sub-issues/ai-principles.html
+* (Cloud Security Alliance(CSA)) AI Safety Initiative Overview   [International] https://cloudsecurityalliance.org/artifacts/ai-safety-initiative-overview
+* IBM AI ethics governance framework                             [International] https://www.ibm.com/think/insights/a-look-into-ibms-ai-ethics-governance-framework
 [15] CSA Cloud Controls Matrix (CCM)    [International]
-* ENISA Multilayer Framework for Good Cybersecurity Practices for AI  [EU] https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai
+* (ENISA) Multilayer Framework for Good Cybersecurity Practices for AI  [EU] https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai
 [28] OWASP Machine Learning Security Top 10 [Open Source]
-* ASD Ethical AI Framework                       [Australia]   https://www.asd.gov.au/about/accountability-governance/ethical-ai-asd
-* BSI LLMs: Opportunities and Risks          [German]    https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html
-* CERT Deploying artificial intelligence (AI) systems securely   [NZ] https://www.ncsc.govt.nz/protect-your-organisation/deploying-ai-systems-securely/
-* NCSC NZ Interim GenAI guidance for the public service  [NZ] https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Responsible-AI-Guidance-for-the-Public-Service-GenAI-Print.pdf
+* Ethical AI Intelligence in the Australian Signals Directorate     [Australia]   https://www.asd.gov.au/sites/default/files/2023-03/Ethical%20AI%20in%20ASD%20Framework.pdf
+* Generative AI Models: Opportunities and Risks for Industry and Authorities      [German]    https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.html
+* (CERT) Deploying artificial intelligence (AI) systems securely   [NZ] https://www.ncsc.govt.nz/protect-your-organisation/deploying-ai-systems-securely/
+* (NCSC NZ) Responsible AI guidance for the Public Service - GenAI  [NZ] https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/Generative-AI/Responsible-AI-Guidance-for-the-Public-Service-GenAI-Print.pdf
 
       
 
